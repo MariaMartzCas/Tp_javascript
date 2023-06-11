@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana;
+}
+
+legend {
+    width: 70px;
+    padding: 2px;
+    text-align: center;
+}
+#formulario{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#anotate{
+    text-align: center;
+}
+
+#envio {
+    background:#5df749;
+    border-radius:10px;
+    border-color: #5df749;
+    width:600px;
+    color:white;
+}
+h6{
+    padding-right: 300px;
+}
+#fondo{
+    filter: brightness(60%);
+
+}
+/*tickets*/
+section{
+    padding-top: 5px;
+}
+.btn-form {
+    background: #96c93e;
+    color: #fff !important;
+  }
